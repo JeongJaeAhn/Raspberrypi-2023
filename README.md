@@ -12,5 +12,5 @@
 		- 무선마우스 속도
 		- 스크린세이버, 와이파이 연결 끊김 해제
 	- pi-apps 설치
-	- Visual Studio Code 설치
-	- Github Desktop 설치 및 설정
+	    - Visual Studio Code 설치
+	    - Github Desktop 설치 및 설정
